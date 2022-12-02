@@ -40,4 +40,15 @@ a{
     border: none;
     display: inline-block;
     background-color: gray;
+    padding: 15px 80px;
+    margin-left: -6px;
+}
+#buttonsign {
+    background-color:aqua;
+    color: white;
+    font-weight: bold;
+}
+#buttonup {
+    font-weight: bold;
+    color: white;
 }
