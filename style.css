@@ -1,6 +1,9 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 .desk {
     text-align: center;
-    width: 40%;
+    width: 33%;
     margin: auto;
 }
 .name {
@@ -12,6 +15,7 @@
     margin: auto;
     width: 425px;
     background-color: #24323d;
+    border: 2px gray solid;
 }
 #setApassword {
     margin-top: 15px;
@@ -29,12 +33,16 @@
 }
 #firstName, #lastName {
     padding: 5px;
+    width: 44.5%;
+    background-color: #24323d;
+    border: 2px gray solid;
 }
 .desk {
     background-color: #24323d;
 }
 h2 {
     padding-top:-20px;
+    color:white;
 }
 a{
     margin-top: 20px;
