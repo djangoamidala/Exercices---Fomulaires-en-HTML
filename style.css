@@ -22,7 +22,7 @@
     font-size: 20px;
     margin-left: 2px;
     width: 440px;
-    background-color: aqua;
+    background-color: #17b288;
     border: none;
     margin-bottom: 30px;
 }
@@ -30,7 +30,7 @@
     padding: 5px;
 }
 .desk {
-    background-color: blue;
+    background-color: #24323d;;
 }
 h2 {
     padding-top:-20px;
@@ -44,7 +44,7 @@ a{
     margin-left: -6px;
 }
 #buttonsign {
-    background-color:aqua;
+    background-color:#17b288;
     color: white;
     font-weight: bold;
 }
