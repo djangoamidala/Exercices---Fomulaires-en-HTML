@@ -1,0 +1,43 @@
+.desk {
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+.name {
+    padding: 15px;
+}
+#emailAddress, #setApassword{
+    padding: 5px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    width: 425px;
+}
+#setApassword {
+    margin-top: 15px;
+}
+#buttonsubmit {
+    margin-top: 15px;
+    padding: 15px;
+    font-size: 20px;
+    margin-left: 2px;
+    width: 440px;
+    background-color: aqua;
+    border: none;
+    margin-bottom: 30px;
+}
+#firstName, #lastName {
+    padding: 5px;
+}
+.desk {
+    background-color: blue;
+}
+h2 {
+    padding-top:-20px;
+}
+a{
+    margin-top: 20px;
+    border: none;
+    display: inline-block;
+    background-color: gray;
+}
