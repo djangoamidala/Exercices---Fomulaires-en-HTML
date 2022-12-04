@@ -1,0 +1,10 @@
+#buttonsign {
+    background-color: gray;
+    color: white;
+}
+#buttonup {
+    background-color:#17b288;
+    color: white;
+    margin-left: -5px;
+    padding: 15px 84.5px;
+}
