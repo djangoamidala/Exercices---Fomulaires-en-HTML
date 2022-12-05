@@ -66,8 +66,9 @@ a{
     color: white;
     padding: 15px 84.5px;
 }
-button:focus {
+.firstName:focus, .lastName:focus, .emailAddress:focus, .setApassword:focus {
     background-color: #17b288;
+    color: white;
 }
  @media screen and (min-width:438px) {
     .buttonup {
