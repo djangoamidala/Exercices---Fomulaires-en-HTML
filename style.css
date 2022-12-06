@@ -66,6 +66,9 @@ a{
     color: white;
     padding: 15px 84.5px;
 }
+input {
+    color: gray;
+}
 .firstName:focus, .lastName:focus, .emailAddress:focus, .setApassword:focus {
     background-color: #17b288;
     color: white;
